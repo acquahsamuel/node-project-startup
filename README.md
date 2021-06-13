@@ -30,8 +30,11 @@ Read all package.json file for all installed npm packages
 update package version to current state
 
 ## Configuration
+
 You can create a structured pattern below. Using MVC pattern
-<img src="public/images/pattern.png" width="350" height="400" title="hover text">
+
+<!-- <img src="public/images/pattern.png" width="350" height="400" title="hover text"> -->
+![readme-pattern](public/images/pattern.png)
 
 #### How to test the software
 ``
@@ -39,13 +42,11 @@ npm start
 ``
 
 
-## Known issues
-
-Document any known significant shortcomings with the software.
+<!-- ## Known issues -->
+<!-- Document any known significant shortcomings with the software. -->
 
 ## Getting help
-
-Instruct users how to get help with this software; this might include links to an issue tracker, wiki, mailing list, etc.
+Kindly reach out to me @acquahsamuel
 
 **Example**
 

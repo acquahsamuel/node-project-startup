@@ -46,18 +46,10 @@ npm start
 <!-- Document any known significant shortcomings with the software. -->
 
 ## Getting help
-Kindly reach out to me @acquahsamuel
+Kindly reach out to me @acquahsamuel@gmail.com
 
-**Example**
-
-If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
 
 ## Getting involved
-
-This section should detail why people should get involved and describe key areas you are
-currently focusing on; e.g., trying to get feedback on features, fixing certain bugs, building
-important pieces, etc.
-
 General instructions on _how_ to contribute should be stated with a link to [CONTRIBUTING](CONTRIBUTING.md).
 
 ---

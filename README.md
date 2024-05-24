@@ -59,13 +59,3 @@ General instructions on _how_ to contribute should be stated with a link to [CON
 1. [TERMS](TERMS.md)
 2. [LICENSE](LICENSE)
 
----
-
-## Credits and references
-
-1. Projects that inspired you
-2. Blonder CSS framework
-3. Adam Wathan -Creator of Tailwind CSS
-
-
-
